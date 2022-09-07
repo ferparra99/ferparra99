@@ -1,0 +1,6 @@
+- 👋 Hi, I’m Fernando Parra
+- 🤩 I’am interested in learning more and more about this great world that is programming as well as helping whoever I can.
+- 💞️ I seek to collaborate in the visual part of the applications, the part that falls in love and captivates people to use the software
+- 📫 You can contact me through my following contacts:
+- 💌 Mail: ferparra9908@gmail.com
+- 📲 Num: 3192742662 
