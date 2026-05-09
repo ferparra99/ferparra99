@@ -54,5 +54,5 @@ Actualmente estudiando **Análisis y Desarrollo de Software** en el SENA (Títul
 ## 📫 Contacto
 
 [![Email](https://img.shields.io/badge/ferparra9908@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ferparra9908@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/TU_USUARIO)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/TU_USUARIO](https://www.linkedin.com/in/jose-fernando-parra-posada-005348203/))
 [![Phone](https://img.shields.io/badge/319_274_2662-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/573192742662)
