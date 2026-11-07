@@ -13,10 +13,12 @@
 ✔ Cuido la calidad del código con **JUnit 5**, **Mockito**, **SpotBugs** y **SonarLint**<br>
 ✔ Actualmente estudio **Análisis y Desarrollo de Software** en el **SENA** (Tecnológico, 2026 - 2028)<br>
 ✔ Sigo aprendiendo sobre **arquitectura de software** y **servicios en la nube**<br>
-✔ Escríbeme si quieres conversar sobre un proyecto o una oportunidad: [LinkedIn](https://www.linkedin.com/in/jose-fernando-parra-posada/) · [ferparra9908@gmail.com](mailto:ferparra9908@gmail.com)<br><br><br><br>
+✔ Escríbeme si quieres conversar sobre un proyecto o una oportunidad: [LinkedIn](https://www.linkedin.com/in/jose-fernando-parra-posada/) · [ferparra9908@gmail.com](mailto:ferparra9908@gmail.com)<br><br>
 
 ## 🛠️ Tech Stack
 
+<img align="left" width="300px" alt="Animación" src="https://i.pinimg.com/originals/9e/25/a1/9e25a15f2aae61fb18f7782b65b6baf7.gif" />
+ 
 **Backend**
 
 ![Java](https://img.shields.io/badge/Java_17-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -30,9 +32,12 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 
+
 **Frontend**
 
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+
+<div align="right">
 
 **Testing & Calidad**
 
@@ -47,7 +52,7 @@
 ![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
-
+</div>
 ---
 
 ## 📌 En qué estoy enfocado
