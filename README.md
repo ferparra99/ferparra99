@@ -1,20 +1,19 @@
 # Hey, soy Fernando Parra 👋
 
 **Backend Developer · Java & Spring Boot · Bogotá, Colombia**
-
-<img src="https://i.pinimg.com/originals/9e/25/a1/9e25a15f2aae61fb18f7782b65b6baf7.gif" width="30px">&nbsp;***Hablando de mí...***
  
+<img align="right" width="300px" alt="Animación" src="https://i.pinimg.com/originals/9e/25/a1/9e25a15f2aae61fb18f7782b65b6baf7.gif" />
+
+***Hablando de mí...*** <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;
+
 ✔ Soy **Fernando Parra**, Desarrollador **Backend Java** en Bogotá, Colombia<br>
 ✔ Más de **3 años** de experiencia con **Java 17** y **Spring Boot 3.x**, creando **APIs REST y SOAP**<br>
 ✔ Trabajé en un sistema **Legacy** y en el sistema que lo reemplazó, con **microservicios** y **monolito modular**<br>
 ✔ Bases de datos: **Oracle SQL**, **PL/SQL** y **PostgreSQL**<br>
 ✔ Cuido la calidad del código con **JUnit 5**, **Mockito**, **SpotBugs** y **SonarLint**<br>
-✔ Actualmente estudio **Análisis y Desarrollo de Software** en el **SENA** (Tecnológico)<br>
+✔ Actualmente estudio **Análisis y Desarrollo de Software** en el **SENA** (Tecnológico, 2026 - 2028)<br>
 ✔ Sigo aprendiendo sobre **arquitectura de software** y **servicios en la nube**<br>
 ✔ Escríbeme si quieres conversar sobre un proyecto o una oportunidad: [LinkedIn](https://www.linkedin.com/in/jose-fernando-parra-posada/) · [ferparra9908@gmail.com](mailto:ferparra9908@gmail.com)<br><br><br><br>
-
-<img align="right" width=300px alt="Cat" src="[https://media.giphy.com/media/3ohs4BSacFKI7A717y/giphy.gif](https://i.pinimg.com/originals/9e/25/a1/9e25a15f2aae61fb18f7782b65b6baf7.gif)" />
----
 
 ## 🛠️ Tech Stack
 
