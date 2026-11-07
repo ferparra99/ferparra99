@@ -2,10 +2,18 @@
 
 **Backend Developer · Java & Spring Boot · Bogotá, Colombia**
 
-Desarrollador Backend con más de 3 años de experiencia construyendo APIs REST, microservicios y soluciones en producción. Me especializo en Java con Spring Boot y disfruto diseñar sistemas limpios, mantenibles y orientados a resultados reales.
+<img src="https://i.pinimg.com/originals/9e/25/a1/9e25a15f2aae61fb18f7782b65b6baf7.gif" width="30px">&nbsp;***Hablando de mí...***
+ 
+✔ Soy **Fernando Parra**, Desarrollador **Backend Java** en Bogotá, Colombia<br>
+✔ Más de **3 años** de experiencia con **Java 17** y **Spring Boot 3.x**, creando **APIs REST y SOAP**<br>
+✔ Trabajé en un sistema **Legacy** y en el sistema que lo reemplazó, con **microservicios** y **monolito modular**<br>
+✔ Bases de datos: **Oracle SQL**, **PL/SQL** y **PostgreSQL**<br>
+✔ Cuido la calidad del código con **JUnit 5**, **Mockito**, **SpotBugs** y **SonarLint**<br>
+✔ Actualmente estudio **Análisis y Desarrollo de Software** en el **SENA** (Tecnológico)<br>
+✔ Sigo aprendiendo sobre **arquitectura de software** y **servicios en la nube**<br>
+✔ Escríbeme si quieres conversar sobre un proyecto o una oportunidad: [LinkedIn](https://www.linkedin.com/in/jose-fernando-parra-posada/) · [ferparra9908@gmail.com](mailto:ferparra9908@gmail.com)<br><br><br><br>
 
-Actualmente estudiando **Análisis y Desarrollo de Software** en el SENA (Título Tecnológico) y siempre buscando seguir creciendo en arquitectura de software.
-
+<img align="right" width=300px alt="Cat" src="[https://media.giphy.com/media/3ohs4BSacFKI7A717y/giphy.gif](https://i.pinimg.com/originals/9e/25/a1/9e25a15f2aae61fb18f7782b65b6baf7.gif)" />
 ---
 
 ## 🛠️ Tech Stack
@@ -54,5 +62,5 @@ Actualmente estudiando **Análisis y Desarrollo de Software** en el SENA (Títul
 ## 📫 Contacto
 
 [![Email](https://img.shields.io/badge/ferparra9908@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ferparra9908@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/TU_USUARIO](https://www.linkedin.com/in/jose-fernando-parra-posada-005348203/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jose-fernando-parra-posada-005348203/)
 [![Phone](https://img.shields.io/badge/319_274_2662-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/573192742662)
