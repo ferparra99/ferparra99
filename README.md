@@ -17,7 +17,9 @@
 
 ## 🛠️ Tech Stack
 
-<img align="left" width="300px" alt="Animación" src="https://i.pinimg.com/originals/9e/25/a1/9e25a15f2aae61fb18f7782b65b6baf7.gif" />
+<img align="left" width="300px" alt="Animación" src="https://giphy.com/explore/forever-working-stickers" />
+
+<iframe src="https://assets.pinterest.com/ext/embed.html?id=683421312251933081" height="714" width="345" frameborder="0" scrolling="no" ></iframe>
  
 **Backend**
 
