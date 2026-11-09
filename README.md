@@ -2,7 +2,7 @@
 
 **Backend Developer · Java & Spring Boot · Bogotá, Colombia**
  
-<img align="right" width="300px" alt="Animación" src="https://i.pinimg.com/originals/9e/25/a1/9e25a15f2aae61fb18f7782b65b6baf7.gif" />
+<img align="right" width="300px" alt="Animación" src="https://i.pinimg.com/1200x/6d/cd/70/6dcd7017b069e400082728b8ce6f45b1.jpg" />
 
 ***Hablando de mí...*** <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;
 
@@ -17,7 +17,7 @@
 
 ## 🛠️ Tech Stack
 
-<img align="left" width="300px" alt="Animación" src="https://giphy.com/explore/forever-working-stickers" />
+<img align="left" width="300px" alt="Animación" src="[https://giphy.com/explore/forever-working-stickers](https://i.pinimg.com/originals/9e/25/a1/9e25a15f2aae61fb18f7782b65b6baf7.gif)" />
  
 **Backend**
 
