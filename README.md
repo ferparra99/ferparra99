@@ -1,11 +1,10 @@
-# Hey, soy Fernando Parra 👋
+# Hola, soy Fernando Parra 👋
 
-**Backend Developer · Java & Spring Boot · Bogotá, Colombia**
- 
-<img align="right" width="300px" alt="iam" src="assets/pioIam.png" />
+**Backend Developer · Java & Spring Boot · Bogotá, Colombia*
 
 ***Hablando de mí...*** <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;
 
+<img align="right" width="300px" alt="iam" src="assets/pioIam.gif">&nbsp;<br>
 ✔ Soy **Fernando Parra**, Desarrollador **Backend Java** en Bogotá, Colombia<br>
 ✔ Más de **3 años** de experiencia con **Java 17** y **Spring Boot 3.x**, creando **APIs REST y SOAP**<br>
 ✔ Trabajé en un sistema **Legacy** y en el sistema que lo reemplazó, con **microservicios** y **monolito modular**<br>
@@ -18,7 +17,7 @@
 
    ## 🛠️ Tech Stack
    
-<img align="left" width="300px" alt="pioCrazy" src="assets/pioCrazy.gif">&nbsp;
+<img align="right" width="400px" alt="pioCrazy" src="assets/pioCrazy.gif">&nbsp;
     
    **Backend**
    
@@ -27,6 +26,8 @@
    ![Spring Data JPA](https://img.shields.io/badge/Spring_Data_JPA-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
    ![Hibernate](https://img.shields.io/badge/Hibernate_6.x-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
    
+<img align="left" width="250px" alt="pioLoading" src="assets/pioLoading.gif">&nbsp;
+
    **Bases de datos**
    
    ![Oracle](https://img.shields.io/badge/Oracle_SQL-F80000?style=for-the-badge&logo=oracle&logoColor=white)
@@ -37,7 +38,7 @@
    
    ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
    
-<img align="right" width="300px" alt="pioCrazy" src="assets/pioLove.gif">&nbsp;
+<img align="right" width="300px" alt="pioLove" src="assets/pioLove.gif">&nbsp;
    
   **Testing & Calidad**
   
@@ -65,8 +66,11 @@
 
 ## 📫 Contacto
 
-<img align="right" width="300px" alt="pioCrazy" src="assets/pioContact.gif">&nbsp;
 
- [![Email](https://img.shields.io/badge/ferparra9908@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ferparra9908@gmail.com)
- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jose-fernando-parra-posada-005348203/)
- [![Phone](https://img.shields.io/badge/319_274_2662-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/573192742662)
+<img align="right" width="200px" alt="pioCrazy" src="assets/pioContact.gif">&nbsp;
+
+ - [![Email](https://img.shields.io/badge/ferparra9908@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ferparra9908@gmail.com)
+ - [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jose-fernando-parra-posada-005348203/)
+ - [![Phone](https://img.shields.io/badge/319_274_2662-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/573192742662)
+
+
