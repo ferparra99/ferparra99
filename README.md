@@ -2,7 +2,7 @@
 
 **Backend Developer · Java & Spring Boot · Bogotá, Colombia**
  
-<img align="right" width="300px" alt="iam" src="https://i.pinimg.com/1200x/6d/cd/70/6dcd7017b069e400082728b8ce6f45b1.jpg" />
+<img align="right" width="300px" alt="iam" src=![iam](assets/pioIam.png) />
 
 ***Hablando de mí...*** <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;
 
