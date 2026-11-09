@@ -11,7 +11,7 @@
 ✔ Trabajé en un sistema **Legacy** y en el sistema que lo reemplazó, con **microservicios** y **monolito modular**<br>
 ✔ Bases de datos: **Oracle SQL**, **PL/SQL** y **PostgreSQL**<br>
 ✔ Cuido la calidad del código con **JUnit 5**, **Mockito**, **SpotBugs** y **SonarLint**<br>
-✔ Actualmente estudio **Análisis y Desarrollo de Software** en el **SENA** (Tecnológico, 2026 - 2028)<br>
+✔ Actualmente estudio **Análisis y Desarrollo de Software** en el **SENA** <br>
 ✔ Sigo aprendiendo sobre **arquitectura de software** y **servicios en la nube**<br>
 ✔ Escríbeme si quieres conversar sobre un proyecto o una oportunidad: [LinkedIn](https://www.linkedin.com/in/jose-fernando-parra-posada/) · [ferparra9908@gmail.com](mailto:ferparra9908@gmail.com)<br><br>
 
